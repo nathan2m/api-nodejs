@@ -1,4 +1,4 @@
-# API NodeJS
+# API NodeJS + Express + Mongo
 
 Project created from [this](https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp) Rocketseat playlist videos "Serie API NodeJS"
 
@@ -10,4 +10,5 @@ Project created from [this](https://www.youtube.com/playlist?list=PL85ITvJ7FLoiX
 ## How to run?
 - Clone this repository.
 - Run `yarn install` to install dependencies.
+- Start MongoDB database.
 - Run `node src/index.js` to start server.
